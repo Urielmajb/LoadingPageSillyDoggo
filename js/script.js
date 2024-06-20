@@ -27,5 +27,3 @@ document.addEventListener("DOMContentLoaded", function () {
         window.location.href = "index.html"; // 
     }
 });
-
-//src="https://i.imgur.com/jf5gh6Y.gif" 
